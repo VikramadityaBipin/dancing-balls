@@ -1,1 +1,2 @@
-# dancing-balls
+# Geologist
+Geologist Project
